@@ -8,7 +8,7 @@ In **June 2025**, I updated the visual styling — including background color an
 
 
 <p align="center">
-  <img src="dashboard.gif" alt="Dashboard Preview" width="700" height="400" />
+  <img src="dashboard.gif" alt="Dashboard Preview" width="500" height="300" />
 </p>
 
 ---
